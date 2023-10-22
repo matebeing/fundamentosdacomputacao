@@ -1,5 +1,5 @@
 # Fundamentos da Computacao
-Resumos da disciplina de Fundamentos da Computação
+Resumos da disciplina de Fundamentos da Computação e exercícios feitos.
 
 ## Python
 
@@ -10,3 +10,8 @@ Resumos da disciplina de Fundamentos da Computação
 
 ### Estrutura de repetição
   - [For Loop](https://github.com/matebeing/fundamentosdacomputacao/blob/main/estrutura_de_repeticao.ipynb)
+
+## Pseucódigo
+
+-
+
