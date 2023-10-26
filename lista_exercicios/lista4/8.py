@@ -16,5 +16,6 @@ while (paisA < paisB):  # while True > while False
     paisB = paisB + (0.2 * paisB)
 
 print(anos)
+
 # while condição:  ## "rosa" == "rosa" = True "laranja" == "abacate" = False
 # corpo
