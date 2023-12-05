@@ -9,11 +9,11 @@ paisB = 7000000
 anos = 0
 
 while (paisA < paisB):  # while True > while False
-
+    
     anos += 1
 
-    paisA = paisA + (0.3 * paisA)
-    paisB = paisB + (0.2 * paisB)
+    paisA = paisA + (0.03 * paisA)
+    paisB = paisB + (0.02 * paisB)
 
 print(anos)
 
